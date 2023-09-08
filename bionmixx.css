@@ -11,10 +11,11 @@ body {
 .menu {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    height: 55px;
+    width: 100%;
     background:#483D8B;
     border-radius: 5px;
-    font-size: 10vw;
-    font-size: 30vh;
+    font-size: 30px;
 
 }
 
