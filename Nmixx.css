@@ -84,8 +84,4 @@ label {
     background: whitesmoke;
     box-shadow: inset 0px 0px 5px;
 }
-body a img {
-    margin: 10px;
-    width: 5px; /* Adjust the size of the icons as needed */
-    height: auto;
-}
+
